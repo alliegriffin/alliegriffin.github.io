@@ -1,0 +1,35 @@
+body{	background-color:#cbd8d6;
+}
+header{
+		text-align: right;
+		margin-right:30px;
+}
+h2{
+	text-align: justify;
+	color:white;
+	margin-top:100px; 
+	margin-left:225px; 
+	margin-right:225px;
+	font-family: 'Questrial', sans-serif;
+	font-size:35px;
+	letter-spacing:-1px
+}
+.name{
+	font-size:85px;
+	color:#b3b7b6;
+}
+ul{
+	 list-style-type: none;
+	 font-size:30px;
+	 font-family: 'Questrial', sans-serif;
+}
+.navbar{color:black;}
+a:link{
+	color:white;
+	font-style: italic; 
+	text-decoration: none
+}
+a:visited{
+	color:white;
+	text-decoration: none
+}
