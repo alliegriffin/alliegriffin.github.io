@@ -1,0 +1,44 @@
+
+h2{
+	text-align:left; 
+	margin-left:180px; 
+	margin-right:200px;
+	margin-bottom:40px;
+	margin-top: 40px;
+	font-family: 'Lora', serif;
+	font-size:25px;
+	line-height: 130%;
+}
+
+h3{
+	font-size:85px;
+	margin-top:150px;
+	margin-left:180px;
+	margin-right: 100px;
+	font-family: 'Questrial', sans-serif;
+}
+
+@media screen and (max-width: 400px) {
+	h2{
+		margin:50px;
+		font-size: 20px;
+	}
+	.name{
+		font-size: 40px;
+	}
+}
+
+
+a:link{
+	color:black;background-color: white;
+	font-style: italic; 
+	text-decoration: none
+}
+a:visited{
+	color:black;
+	text-decoration: none
+}
+a:hover{
+	color:#b3b7b6;
+	transition: all 1s;
+}
