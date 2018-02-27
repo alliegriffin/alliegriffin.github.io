@@ -18,7 +18,19 @@ h1{
 	font-family: 'Questrial', sans-serif;
 }
 
-
+@media screen and (max-width: 768px) {
+	p{
+		margin:50px;
+		margin-top: -20px;
+		margin-bottom: 40px;
+		font-size:15px;
+		text-align: left;
+	}
+	h1{
+		font-size: 40px;
+		margin: 50px;
+	}
+}
 
 a:link{
 	color:black;background-color: white;
