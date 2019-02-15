@@ -1,0 +1,68 @@
+
+h3{
+	font-size:85px;
+	margin-left:210px;
+	margin-right: -80px;
+	margin-bottom: 30px;
+	margin-top:200px;
+	font-family: 'Questrial', sans-serif;
+	color:#535359;
+	display: inline-block;
+}
+
+
+#journalist{
+	font-style: normal;
+	display: block;
+
+}
+
+#designer{
+	font-style: normal;	
+	display: block;
+
+}
+
+#name{
+	color: #273d9e;
+	font-style: normal;
+	display: block;
+	text-decoration: none;
+
+}
+#name:hover{
+	color: #7aa3a3;
+	transition: all 1.5s;
+}
+
+img{
+	float: right;
+	width: 60%;
+	margin-top: 20px;
+}
+
+@media screen and (max-width: 768px) {
+	h2{
+		margin:50px;
+		margin-top: -20px;
+		margin-bottom: 40px;
+		font-size:15px;
+	}
+	h3{
+		font-size: 40px;
+		margin: 50px; 
+	}
+}
+
+a:link{
+	color:black;
+}
+a:visited{
+	color:black;
+	text-decoration: none
+}
+
+
+body{	background-color: #f4ffff;
+
+}
